@@ -85,7 +85,7 @@ Developed with ❤️ in Bangladesh BD
 
 
 <p align="center">
-<a href="https://twitter.com/@SrSwadhin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Selim-Reza-Swadhin" height="20" width="20" /></a>
+<a href="https://twitter.com/SrSwadhin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Selim-Reza-Swadhin" height="20" width="20" /></a>
 <a href="https://www.linkedin.com/in/selim-reza-swadhin-a55278105/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Selim-Reza-Swadhin" height="20" width="20" /></a>
 <a href="https://web.facebook.com/srswadhin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Selim-Reza-Swadhin" height="20" width="20" /></a>
 <a href="https://www.instagram.com/mdsr.swadhin/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Selim-Reza-Swadhin" height="20" width="20" /></a>
