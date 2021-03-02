@@ -1,6 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Selim Reza Swadhin</h1>
 <h3 align="center">A passionate frontend developer 👋, backend developer</h3>
+<h3 align="center">A passionate frontend developer 👋, backend developer. ⚡ A young-dumb 🤓 front end developer from ❤️Bangladesh BD</h3>
 
 - 🔭 I’m currently working on **mindDairy**
 
