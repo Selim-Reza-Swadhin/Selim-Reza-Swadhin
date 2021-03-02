@@ -32,13 +32,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Selim-Reza-Swadhin&theme=dark&hide_langs_below=1" />
 </a>
 <a href="https://github.com/Selim-Reza-Swadhin">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Selim-Reza-Swadhin&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
-</a>
-<a href="https://github.com/Selim-Reza-Swadhin">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Selim-Reza-Swadhin&repo=mindDiary&theme=dark" />
-</a>
-<a href="https://github.com/Selim-Reza-Swadhin/">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Selim-Reza-Swadhin&repo=xylophone-flutter&theme=dark" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Selim-Reza-Swadhin&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
 </a>
 
 <p align="center">
