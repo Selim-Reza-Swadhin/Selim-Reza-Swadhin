@@ -34,9 +34,9 @@
 <a href="https://github.com/Selim-Reza-Swadhin">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Selim-Reza-Swadhin&theme=highcontrast&show_icons=true"/>
 </a>
-https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
 <a href="https://github.com/Selim-Reza-Swadhin">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Selim-Reza-Swadhin&repo=github-readme-stats&theme=highcontrast&show_icons=true"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Selim-Reza-Swadhin&repo=Selim-Reza-Swadhin&theme=highcontrast&show_icons=true"/>
 </a>
 
 <p align="center">
