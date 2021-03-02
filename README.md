@@ -26,7 +26,7 @@
 <a href="https://github.com/shafinr23">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shafinr23&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
 </a>
-<a href="https://github.com/shafinr23">
+<a href="https://github.com/Selim-Reza-Swadhin">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shafinr23&repo=mindDiary&theme=dark" />
 </a>
 <a href="https://github.com/shafinr23/">
@@ -34,9 +34,9 @@
 </a>
 
 <p align="center">
-<a href="https://twitter.com/shafinrahman15" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="shafinrahman15" height="20" width="20" /></a>
-<a href="https://linkedin.com/in/shafinrahman" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="shafinrahman" height="20" width="20" /></a>
-<a href="https://fb.com/shafinr98" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="shafinr98" height="20" width="20" /></a>
-<a href="https://instagram.com/shafin.dev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="shafin.dev" height="20" width="20" /></a>
+<a href="https://twitter.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="shafinrahman15" height="20" width="20" /></a>
+<a href="https://linkedin.com/in/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="shafinrahman" height="20" width="20" /></a>
+<a href="https://fb.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="shafinr98" height="20" width="20" /></a>
+<a href="https://instagram.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="shafin.dev" height="20" width="20" /></a>
 </p>
 
