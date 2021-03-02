@@ -36,7 +36,7 @@
 </a>
 
 <a href="https://github.com/Selim-Reza-Swadhin">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Selim-Reza-Swadhin&repo=Selim-Reza-Swadhin"/>
 </a>
 
 <p align="center">
