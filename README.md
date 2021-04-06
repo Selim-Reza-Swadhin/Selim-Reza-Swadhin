@@ -9,9 +9,9 @@
 
 - 🤔 I’m looking for help with **wordpress , plugin**
 
-- 👨‍💻 All of my projects are available at **selimrezaswadhin.com**
+- 👨‍💻 All of my projects are available at [selimrezaswadhin.com](selimrezaswadhin.com)
 
-- 📝 I regulary write articles on **selimrezaswadhin.com/wpselim**
+- 📝 I regulary write articles on [selimrezaswadhin.com/wpselim](selimrezaswadhin.com/wpselim)
 
 - 💬 Ask me about **sass , jquery**
 
