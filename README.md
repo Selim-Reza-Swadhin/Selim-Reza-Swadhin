@@ -9,13 +9,13 @@
 
 - 🤔 I’m looking for help with **wordpress , plugin**
 
-- 👨‍💻 All of my projects are available at [selimrezaswadhin.com](https://selimrezaswadhin.com)
+- 👨‍💻 All of my projects are available at **_[selimrezaswadhin.com](https://selimrezaswadhin.com "selimrezaswadhin.com")_**
 
-- 📝 I regulary write articles on [selimrezaswadhin.com/wpselim](https://selimrezaswadhin.com/wpselim)
+- 📝 I regulary write articles on **_[selimrezaswadhin.com/wpselim](https://selimrezaswadhin.com/wpselim "wordpress theme")_**
 
 - 💬 Ask me about **sass , jquery**
 
-- 📫 How to reach me <info@selimrezaswadhin.com>
+- 📫 How to reach me ***<info@selimrezaswadhin.com>***
 
 - ⚡ Fun fact **coffee**
 
