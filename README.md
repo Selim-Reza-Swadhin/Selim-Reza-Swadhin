@@ -41,7 +41,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/mdsr.swadhin/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/selim-reza-swadhin-a55278105/)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://selimrezaswadhin.com)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/SrSwadhin)
+![Twitter Follow](https://img.shields.io/twitter/follow/SrSwadhin?label=Follow%20me&style=social)
 [![YouTube Badge](https://img.shields.io/badge/-YouTube-e4405f?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/channel/UCUlzyBvI5OJQsIOXIF5quiw)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-0088cc?style=flat-square&logo=Facebook&logoColor=white)](https://facebook.com/srswadhin)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Selim-Reza-Swadhin.Selim-Reza-Swadhin)
