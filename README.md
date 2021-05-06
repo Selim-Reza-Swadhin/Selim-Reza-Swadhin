@@ -4,7 +4,7 @@
 [![Selim Reza Swadhin](https://readme-typing-svg.herokuapp.com?center=true&multiline=true&lines=I+am+web+designer+and+developer.;Always+Learning+new+things;4%2B+Years+of+coding+experiance;html5%2C+css3%2C+javascript%2C+jquery%2C+nodejs%2C+expressjs%2C+php%2C+wordpress%2C+elementor%2C+redux%2C+codestar.)](https://git.io/typing-svg)
 </h3>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20and%20app%20developer;Self-taught%20UI%2FUX%20Designer;10%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=I+am+web+designer+and+developer.;Always+Learning+new+things;4%2B+Years+of+coding+experiance;html5%2C+css3%2C+javascript%2C+jquery%2C+nodejs%2C+expressjs%2C+php%2C+wordpress%2C+elementor%2C+redux%2C+codestar"></a>
 </p>
 <h1 align="center">Hi  
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
