@@ -2,8 +2,9 @@
 <a href="https://selimrezaswadhin.com"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 <h1 align="center">Hi  
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  ,
   <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/>
- , I'm Selim Reza Swadhin
+   I'm Selim Reza Swadhin
 </h1>
 <h3 align="center">A Passionate Frontend Developer 👋 Backend Developer.</h3>
 <h3 align="center">⚡ A young-dumb 🤓 Developer from ❤️Bangladesh BD ⚡</h3>
