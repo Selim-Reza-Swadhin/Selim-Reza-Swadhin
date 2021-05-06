@@ -117,11 +117,11 @@
 
 
 <p align="center">
-    <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
+    <a href="https://github.com/Selim-reza-Swadhin">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Selim Reza swadhin's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Selim-Reza-Swadhin&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
  
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Selim-Reza-Swadhin&theme=merko&dates=DD2727)](https://git.io/streak-stats)
+ [![](https://github-readme-streak-stats.herokuapp.com?user=Selim-Reza-Swadhin&theme=merko&dates=DD2727)]()
 </p>
 
 
