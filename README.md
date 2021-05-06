@@ -128,7 +128,7 @@
 <br/>
 
 
-[![Selim Reza Swadhin's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ashutosh00710)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Selim Reza Swadhin's github activity graph](https://activity-graph.herokuapp.com/graph?username=Selim-Reza-Swadhin)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br/>
 <br/>
