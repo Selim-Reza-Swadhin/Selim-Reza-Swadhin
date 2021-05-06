@@ -118,7 +118,7 @@
 
 <p align="center">
     <a href="https://github.com/Selim-reza-Swadhin">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Selim Reza swadhin's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Selim-Reza-Swadhin&theme=merko&hide_border=false&properties=stroke&dates=%233EDD27FF"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Selim Reza Swadhin's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Selim-Reza-Swadhin&theme=merko&hide_border=false&properties=stroke&dates=%233EDD27FF"/>
     </a>
 </p>
 
@@ -126,7 +126,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/Selim-Reza-Swadhin/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Selim-Reza-Swadhin&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/Selim-Reza-Swadhin/github-readme-activity-graph"><img alt="Selim Reza Swadhin's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Selim-Reza-Swadhin&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
