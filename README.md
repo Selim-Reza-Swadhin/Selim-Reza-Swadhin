@@ -1,8 +1,5 @@
 <h1 align="center" style="color:blue">🤝 আমার গিটহাব পেজ এ আপনাকে স্বাগতম 🤝</h1>
 <a href="https://selimrezaswadhin.com"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
-<h3 align="center">
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=I+am+web+designer+and+developer.;Always+Learning+new+things;4%2B+Years+of+coding+experiance;html5%2C+css3%2C+javascript%2C+jquery%2C+nodejs%2C+expressjs;php%2C+wordpress%2C+elementor%2C+redux%2C+codestar.)](https://git.io/typing-svg)
-</h3>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=I+am+web+designer+and+developer.;Always+Learning+new+things;4%2B+Years+of+coding+experiance;html5%2C+css3%2C+javascript%2C+jquery%2C+nodejs%2C+expressjs;php%2C+wordpress%2C+elementor%2C+redux%2C+codestar."></a>
 </p>
