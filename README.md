@@ -1,7 +1,9 @@
 <h1 align="center" style="color:blue">🤝 আমার গিটহাব পেজ এ আপনাকে স্বাগতম 🤝</h1>
-<a href="https://selimrezaswadhin.com"><img  src="https://imgur.com/gallery/bU2z3a5"/></a>
-<blockquote class="imgur-embed-pub" lang="en" data-id="bU2z3a5"  ><a href="//imgur.com/bU2z3a5">Coder</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Selim Reza Swadhin</h1>
+<h1 align="center">Hi  
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/>
+ , I'm Selim Reza Swadhin
+</h1>
 <h3 align="center">A Passionate Frontend Developer 👋 Backend Developer.</h3>
 <h3 align="center">⚡ A young-dumb 🤓 Developer from ❤️Bangladesh BD ⚡</h3>
 
