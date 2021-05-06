@@ -1,5 +1,6 @@
 <h1 align="center" style="color:blue">🤝 আমার গিটহাব পেজ এ আপনাকে স্বাগতম 🤝</h1>
-<h1 align="center">Hi 👋, I'm Selim Reza Swadhin</h1>
+<a href="https://selimrezaswadhin.com"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Selim Reza Swadhin</h1>
 <h3 align="center">A Passionate Frontend Developer 👋 Backend Developer.</h3>
 <h3 align="center">⚡ A young-dumb 🤓 Developer from ❤️Bangladesh BD ⚡</h3>
 
