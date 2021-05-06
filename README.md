@@ -118,7 +118,7 @@
 
 <p align="center">
     <a href="https://github.com/Selim-reza-Swadhin">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Selim Reza swadhin's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Selim-Reza-Swadhin&theme=merko&dates=3EDD27"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Selim Reza swadhin's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Selim-Reza-Swadhin&theme=merko&hide_border=false&properties=stroke&dates=%233EDD27FF"/>
     </a>
 </p>
 
