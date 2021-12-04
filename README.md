@@ -12,21 +12,19 @@
 <h3 align="center">A Passionate Frontend Developer 👋 Backend Developer.</h3>
 <h3 align="center">⚡ A young-dumb 🤓 Developer from ❤️Bangladesh BD ⚡</h3>
 
-- 🔭 I’m currently working on **mindDairy**
-
-- 👯 I’m looking to collaborate on **mindDairy**
-
+- 🔭 I’m currently working on **WordPressI’m currently learning JAVA**
+- 🔭 I’m currently learning Laravel
 - 🤔 I’m looking for help with **wordpress , plugin**
 
 - 👨‍💻 All of my projects are available at **_[selimrezaswadhin.com](https://selimrezaswadhin.com "selimrezaswadhin.com")_**
 
 - 📝 I regulary write articles on **_[selimrezaswadhin.com/wpselim](https://selimrezaswadhin.com/wpselim "wordpress theme")_**
 
-- 💬 Ask me about **sass , jquery**
+- 💬 Ask me about #html5 #css3 #bootstrap5 #tailwindcss #sass #JavaScript #Jquery #PHP #MySQL
 
 - 📫 How to reach me ***<info@selimrezaswadhin.com>***
 
-- ⚡ Fun fact **coffee**
+- ⚡ Fun fact **Watch Web Development Tutorial From YouTube**
 
 ### Connect with me:
 
