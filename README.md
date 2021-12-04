@@ -12,7 +12,7 @@
 <h3 align="center">A Passionate Frontend Developer 👋 Backend Developer.</h3>
 <h3 align="center">⚡ A young-dumb 🤓 Developer from ❤️Bangladesh BD ⚡</h3>
 
-- 🔭 I’m currently working on **WordPressI’m currently learning JAVA**
+- 🔭 I’m currently working on **WordPress**
 - 🔭 I’m currently learning Laravel
 - 🤔 I’m looking for help with **wordpress , plugin**
 
